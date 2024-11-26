@@ -1,0 +1,18 @@
+Phase 1 - Basic Components Functionality Tests
+* ESP8266 (WiFi) [PASSED]
+* DHT11 (Humidity) [PASSED]
+* DS18B20 (Temperature)
+
+Phase 2 - Database Data Insertion Test
+
+
+Phase 3 - Basic Components Database Integration Test
+
+
+Phase 4 - Advanced Components Functionality Tests
+
+
+Phase 5 - Advanced Components Database Integration Test
+
+
+Phase 6 - Final Integration ????

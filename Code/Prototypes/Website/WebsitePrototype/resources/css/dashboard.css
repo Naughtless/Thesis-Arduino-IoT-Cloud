@@ -1,0 +1,37 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+th:hover {
+    background-color: #ddd;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.filter-container {
+    margin-bottom: 20px;
+}
+#logout-button {
+    position: absolute;
+    top: 10px; /* Adjust top position as needed */
+    right: 10px; /* Adjust right position as needed */
+    padding: 5px 10px;
+    background-color: #ff0000; /* Customize the button's background color */
+    color: #fff; /* Customize the text color */
+    border: none;
+    cursor: pointer;
+}
+
+/* Style the button on hover */
+#logout-button:hover {
+    background-color: #dd0000; /* Customize the hover background color */
+}

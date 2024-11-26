@@ -1,0 +1,16 @@
+[Easy Sensors]
+1. Temperature Sensor - DS18B20 {Y}
+2. Humidity Sensor - DHT11 {Y}
+
+
+[Too expensive for mistakes. Better be sure!]
+2. CO2 Sensor - MH-Z19/MH-Z19B [550K]
+3. PH Sensor - PH-4502C [280K]
+
+
+[Requires additional research.]
+5. PPM Sensor
+	- DFRobot Analog TDS Sensor
+
+
+
